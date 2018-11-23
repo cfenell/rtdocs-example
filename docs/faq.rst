@@ -4,9 +4,11 @@ Wordcount FAQ
 =============
 
 
+This should be a table
+
 =======  =====
 Section  Name
-=======  ====
+=======  =====
 A        General
 B        Files
 C        Output
@@ -27,7 +29,7 @@ Files
 
 #. Why can't it read my file?
 
-It may contain other codings than ''UTF-8''.
+It may contain other codings than **UTF-8**.
 
 
 Output
@@ -35,4 +37,4 @@ Output
 
 #. Where did my output go?
 
-Maybe to ''/dev/null''.
+Maybe to */dev/null*.
