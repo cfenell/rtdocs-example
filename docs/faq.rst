@@ -6,9 +6,9 @@ Wordcount FAQ
 
 This should be a table
 
-=======  =====
+=======  ======
 Section  Name
-=======  =====
+=======  ======
 A        General
 B        Files
 C        Output
