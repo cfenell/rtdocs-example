@@ -1,3 +1,6 @@
+# Example from the CodeRefinery workshop
+
+
 # Word count script
 
 The word count script is derived from
